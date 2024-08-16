@@ -1,0 +1,15 @@
+{
+  "name": "clase",
+  "version": "1.0.0",
+  "description": "Primera entrega en parejas, Nestor y Milton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "NestorOsorio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
